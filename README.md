@@ -2,7 +2,7 @@
 This has the code for the Weather Forescast website I built.
 
 ## Link for similar Projects :
-● [My own Projects] (http://www-scf.usc.edu/~nayankar/siralex02071991.html)
+- [My own Projects] (http://www-scf.usc.edu/~nayankar/siralex02071991.html)
 
 ## Objectives
 ● Get experience with the PHP programming language.
@@ -11,6 +11,6 @@ This has the code for the Weather Forescast website I built.
 ● Get experience with the JSON parsers in PHP.
 
 ## How to Use this
-● [Install Apache on Mac or windows] (http://httpd.apache.org/docs/2.4/install.html)
+- [Install Apache on Mac or windows] (http://httpd.apache.org/docs/2.4/install.html)
 ● Once installed place the files in the root directory.
 ● start the apache server and try running on your browser.
